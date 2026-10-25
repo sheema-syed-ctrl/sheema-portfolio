@@ -4,7 +4,7 @@ portfolio of syedsheema
 
 Welcome to my personal portfolio repository! This project showcases my technical skills, academic background, internships, certifications, and projects as a Data Science Engineering student.
 
-🔗 **Live Portfolio:** https://sheemaport-nlawjaux.manus.space/
+🔗 **Live Portfolio:** https://sheemaport-iyw5jvhv.manus.space/
 
 ## 👩‍💻 About Me
 
