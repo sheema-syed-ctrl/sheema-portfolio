@@ -122,3 +122,14 @@ Unless a license is added to this repository, all rights are reserved by the pro
 
 **Made with passion by Sheema Syed.**
 **
+**Project Title: Syed Sheema — Personal Portfolio Website Showcase**
+
+
+
+https://github.com/user-attachments/assets/9ab72292-091d-4221-b3dc-63528be22a08
+
+
+
+
+
+**Final Deliverable:** A complete, polished portfolio walkthrough video ready to share on LinkedIn, GitHub, and in job applications.
